@@ -18,3 +18,19 @@ main .p {
     color: #5b5963;
 
 }
+
+/*
+making a dark-mode and light mode classes
+The background color is for the color of the card itself
+The color is for the color of the text
+*/
+.dark-mode{
+    background-color: #8B4513;
+    color: #fff;
+}
+
+.light-mode{
+    background-color: #fff;
+    color: #5b5963;
+
+}

@@ -55,6 +55,12 @@ let t3 = new element(
 );
 let t4 = new element(["text_4"], "text-choco", "text-white");
 
+
+let blogcard = new element(
+  ["?"],"light-mode", "dark-mode"
+);
+
+
 // let b1 = new element("bg_1", "bg-slate-50", "bg-slate-400");
 let b1 = new element(
   ["bg-header-offwhite", "main-card", "b_1"],
